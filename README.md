@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivkumar Hudge</h1>
+<h1 align="center">Namaste 👋, I'm Shivkumar Hudge</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
 
