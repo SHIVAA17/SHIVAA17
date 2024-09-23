@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Personal Portfolio Website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **shivkumar6713@gmail.com**
 
