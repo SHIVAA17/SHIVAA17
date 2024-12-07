@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Personal Portfolio Website**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Ansible**
 
 - 📫 How to reach me **shivkumar6713@gmail.com**
 
